@@ -1,5 +1,4 @@
-# portfolio_
-Portfolio Placeholder
+# Portfolio Placeholder Page
 
 # Project 1
 lorem ipsum
